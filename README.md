@@ -1,2 +1,3 @@
 # linux
-linux学习笔记
+# This is a comment
+# The repository includes linux and git related study notes
